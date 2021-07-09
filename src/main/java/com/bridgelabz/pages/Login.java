@@ -30,5 +30,6 @@ public class Login extends Base {
         loginButton.click();
         Thread.sleep(2000);
         log.info("flipakrtLoginTest");
+
     }
 }
