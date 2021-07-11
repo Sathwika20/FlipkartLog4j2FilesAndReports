@@ -1,0 +1,440 @@
+[INFO ] 2021-07-09 08:08:42.811 [Test worker] LoginTest - Starting test cases execution
+[INFO ] 2021-07-09 08:08:46.886 [Test worker] LoginTest - launching chrome broswer
+[INFO ] 2021-07-09 08:08:51.607 [Test worker] LoginTest - entering application URL
+[WARN ] 2021-07-09 08:08:51.608 [Test worker] LoginTest - Hey this just a warning message
+[FATAL] 2021-07-09 08:08:51.608 [Test worker] LoginTest - hey this is just fatal error message
+[INFO ] 2021-07-09 08:08:53.619 [Test worker] LoginTest - starting test case
+[INFO ] 2021-07-09 08:08:53.620 [Test worker] LoginTest - flipkartLoginTest
+[INFO ] 2021-07-09 08:08:54.149 [Test worker] LoginTest - ending test case
+[INFO ] 2021-07-09 08:08:54.154 [Test worker] LoginTest - flipakrtLoginTest
+[INFO ] 2021-07-09 08:08:54.984 [Test worker] LoginTest - Browser is closed
+[INFO ] 2021-07-09 08:09:13.291 [Test worker] LoginTest - Starting test cases execution
+[INFO ] 2021-07-09 08:09:17.171 [Test worker] LoginTest - launching chrome broswer
+[INFO ] 2021-07-09 08:09:21.139 [Test worker] LoginTest - entering application URL
+[WARN ] 2021-07-09 08:09:21.139 [Test worker] LoginTest - Hey this just a warning message
+[FATAL] 2021-07-09 08:09:21.139 [Test worker] LoginTest - hey this is just fatal error message
+[INFO ] 2021-07-09 08:09:23.144 [Test worker] LoginTest - starting test case
+[INFO ] 2021-07-09 08:09:23.144 [Test worker] LoginTest - flipkartLoginTest
+[INFO ] 2021-07-09 08:09:23.623 [Test worker] LoginTest - ending test case
+[INFO ] 2021-07-09 08:09:23.623 [Test worker] LoginTest - flipakrtLoginTest
+[INFO ] 2021-07-09 08:09:24.692 [Test worker] LoginTest - Browser is closed
+[INFO ] 2021-07-09 10:59:51.807 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 10:59:59.589 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:00:04.480 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:00:04.481 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:00:04.482 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:00:06.556 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:00:06.556 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:00:08.974 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:00:08.975 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:00:09.799 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:14:00.888 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:14:05.427 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:14:10.299 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:14:10.299 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:14:10.300 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:14:21.045 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:14:33.595 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:14:37.560 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:14:40.974 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:14:40.975 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:14:40.975 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:14:43.015 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:14:43.015 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:14:45.322 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:14:45.325 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:14:46.281 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:14:46.287 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:14:47.820 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:14:53.661 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:14:53.662 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:14:53.662 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:15:03.944 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:20:25.671 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:20:30.020 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:20:34.287 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:20:34.288 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:20:34.288 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:20:36.360 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:20:36.360 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:20:38.880 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:20:38.881 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:20:39.975 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:20:39.981 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:20:41.805 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:20:45.595 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:20:45.595 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:20:45.597 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:20:51.049 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:21:22.011 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:21:26.090 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:21:29.733 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:21:29.733 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:21:29.734 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:21:31.805 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:21:31.806 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:21:34.308 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:21:34.310 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:21:35.297 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:21:35.303 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:21:37.206 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:21:47.197 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:21:47.198 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:21:47.199 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:21:57.673 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:22:12.399 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:22:16.461 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:22:21.657 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:22:21.657 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:22:21.659 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:22:23.717 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:22:23.718 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:22:26.111 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:22:26.112 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:22:26.435 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:22:26.439 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:22:27.934 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:22:31.098 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:22:31.099 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:22:31.099 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:22:39.550 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:26:49.559 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:26:53.632 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:27:00.407 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:27:00.408 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:27:00.409 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:27:02.467 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:27:02.468 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:27:04.984 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:27:04.985 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:27:05.222 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:27:05.226 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:27:06.777 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:27:11.808 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:27:11.808 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:27:11.808 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:27:20.321 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:29:15.504 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:29:19.778 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:29:24.050 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:29:24.050 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:29:24.051 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:29:26.097 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:29:26.098 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:29:28.421 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:29:28.421 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:29:28.813 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:29:28.818 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:29:30.513 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:29:33.748 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:29:33.749 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:29:33.749 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:29:42.221 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:30:57.971 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:31:02.311 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:31:07.229 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:31:07.230 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:31:07.230 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:31:09.296 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:31:09.297 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:31:11.946 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:31:11.946 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:31:12.188 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:31:12.195 [Test worker] Base - Starting test cases execution
+[INFO ] 2021-07-09 11:31:13.897 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:31:19.525 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:31:19.525 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:31:19.526 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:31:24.163 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:35:45.760 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:35:51.048 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:35:51.048 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:35:51.049 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:35:53.149 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:35:53.150 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:35:55.581 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:35:55.581 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:36:09.067 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:36:29.609 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:36:34.614 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:36:34.615 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:36:34.616 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:36:36.732 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:36:36.733 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:36:39.211 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:36:39.212 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:36:45.424 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:37:44.089 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:37:51.129 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:37:51.130 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:37:51.130 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:37:53.275 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:37:53.275 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:37:55.814 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:37:55.815 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:38:09.261 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:41:13.864 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:41:18.258 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:41:18.260 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:41:18.262 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:41:20.422 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:41:20.423 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:41:22.896 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:41:22.918 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 11:41:36.239 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:41:36.240 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 11:41:40.448 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 11:42:14.993 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 11:42:22.504 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 11:42:22.507 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 11:42:22.508 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 11:42:24.664 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 11:42:24.664 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 11:42:27.231 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 11:42:27.254 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 11:42:46.377 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 11:42:46.377 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 11:42:50.581 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 12:53:25.117 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 12:53:28.684 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 12:53:28.687 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 12:53:28.688 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 12:53:30.798 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 12:53:30.799 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 12:53:33.131 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 12:53:33.269 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 12:53:38.662 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 12:53:38.665 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 12:53:42.858 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 12:57:47.608 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 12:57:50.709 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 12:57:50.711 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 12:57:50.711 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 12:57:52.883 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 12:57:52.883 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 12:57:55.283 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 12:57:55.409 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 12:58:08.583 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 12:58:08.583 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 12:58:12.795 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 13:42:56.201 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:43:01.029 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 13:43:01.030 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 13:43:01.030 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 13:45:06.294 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:45:11.220 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 13:45:11.222 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 13:45:11.222 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 13:46:14.241 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 13:51:47.666 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:52:29.121 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:52:32.309 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 13:52:32.309 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 13:52:32.309 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 13:52:38.928 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 13:53:53.981 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:53:57.387 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 13:53:57.387 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 13:53:57.389 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 13:54:01.955 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 13:58:06.071 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:58:08.989 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 13:58:08.989 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 13:58:08.990 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 13:58:15.845 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 13:59:01.431 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 13:59:04.253 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 13:59:04.253 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 13:59:04.255 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 13:59:11.868 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:08:04.148 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:08:07.363 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:08:07.363 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:08:07.364 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:08:09.478 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:08:09.478 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:08:11.715 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:08:11.879 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:08:17.224 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 14:08:17.224 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 14:08:17.495 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:12:57.228 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:12:59.741 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:12:59.742 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:12:59.743 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:13:01.866 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:13:01.867 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:13:04.070 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:13:04.580 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:13:09.939 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 14:13:09.940 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 14:13:14.305 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:29:48.843 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:29:52.669 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:29:52.670 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:29:52.670 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:29:54.801 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:29:54.802 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:29:57.092 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:29:57.702 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:30:05.050 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:38:16.045 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:38:19.075 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:38:19.076 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:38:19.076 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:38:21.186 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:38:21.186 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:38:23.418 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:38:23.424 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:38:23.866 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:38:29.190 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 14:38:29.190 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 14:38:29.192 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:38:33.568 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:44:36.666 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:44:41.085 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:44:41.085 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:44:41.086 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:44:43.181 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:44:43.182 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:44:45.430 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:44:45.433 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:44:46.017 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:44:48.409 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:44:49.350 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:45:36.102 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:45:38.885 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:45:38.886 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:45:38.887 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:45:40.989 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:45:40.989 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:45:43.218 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:45:43.224 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:45:43.739 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:45:49.126 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 14:45:49.127 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 14:45:49.129 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:45:49.566 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:46:17.598 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:46:20.491 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:46:20.491 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:46:20.492 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:46:22.622 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:46:22.623 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:46:34.837 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:46:47.018 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:47:51.437 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:47:54.181 [Test worker] Base - entering application URL
+[WARN ] 2021-07-09 14:47:54.181 [Test worker] Base - Hey this just a warning message
+[FATAL] 2021-07-09 14:47:54.182 [Test worker] Base - hey this is just fatal error message
+[INFO ] 2021-07-09 14:47:56.276 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:47:56.277 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:47:58.486 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:47:58.493 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:48:00.157 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:48:05.491 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 14:48:05.492 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 14:48:05.493 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:48:09.847 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:58:25.444 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:58:25.447 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 14:58:28.724 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 14:58:30.868 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:58:30.868 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:58:33.149 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:58:33.161 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 14:58:33.165 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 14:58:34.050 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 14:58:34.170 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 14:58:39.514 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 14:58:39.514 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 14:58:39.515 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 14:58:39.516 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 14:58:39.673 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 14:58:39.951 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 14:58:57.303 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 14:58:57.306 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 14:59:00.314 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 14:59:02.429 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 14:59:02.429 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 14:59:04.652 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 14:59:04.656 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 14:59:04.664 [Test worker] Base - Capturing ScreenShot
+[WARN ] 2021-07-09 14:59:16.829 [Test worker] Base - Test case is failed
+[INFO ] 2021-07-09 14:59:16.830 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:00:35.568 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 15:00:35.570 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 15:00:38.335 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 15:00:40.431 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 15:00:40.431 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 15:00:42.639 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 15:00:42.644 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:00:42.646 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:00:43.426 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:00:43.565 [Test worker] Base - flipkartLogoutTest
+[WARN ] 2021-07-09 15:00:45.811 [Test worker] Base - Test case is failed
+[INFO ] 2021-07-09 15:00:45.812 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:00:46.112 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:00:46.429 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 15:01:34.793 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 15:01:34.794 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 15:02:08.830 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 15:02:10.943 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 15:02:10.943 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 15:02:13.148 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 15:02:13.154 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:02:13.157 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:02:13.999 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:02:14.183 [Test worker] Base - flipkartLogoutTest
+[WARN ] 2021-07-09 15:02:16.403 [Test worker] Base - Test case is failed
+[INFO ] 2021-07-09 15:02:16.403 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:02:16.575 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:02:20.814 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 15:02:50.764 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 15:02:50.766 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 15:02:54.503 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 15:02:56.590 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 15:02:56.590 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 15:02:58.834 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 15:02:58.839 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:02:58.844 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:02:59.829 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:02:59.957 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 15:03:10.479 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 15:03:10.483 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 15:03:10.485 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:03:10.486 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:03:11.158 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:03:15.374 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 15:06:32.053 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 15:06:32.057 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 15:06:35.017 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 15:06:37.142 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 15:06:37.142 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 15:06:39.499 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 15:06:39.506 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:06:39.508 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:06:39.847 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:06:39.976 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 15:06:50.327 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 15:06:50.330 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 15:06:50.331 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:06:50.332 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:06:50.805 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:06:51.057 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-09 15:08:28.208 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-09 15:08:28.212 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-09 15:08:31.702 [Test worker] Base - entering application URL
+[INFO ] 2021-07-09 15:08:33.884 [Test worker] Base - starting test case
+[INFO ] 2021-07-09 15:08:33.884 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-09 15:08:36.340 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-09 15:08:36.348 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:08:36.353 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:08:37.700 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:08:37.947 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-09 15:08:43.419 [Test worker] Base - ending test case
+[INFO ] 2021-07-09 15:08:43.420 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-09 15:08:43.421 [Test worker] Base - Test is Success
+[INFO ] 2021-07-09 15:08:43.422 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-09 15:08:43.682 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-09 15:08:47.912 [Test worker] Base - Browser is closed

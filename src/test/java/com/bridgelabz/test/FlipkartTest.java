@@ -7,33 +7,29 @@ import com.bridgelabz.pages.Logout;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import jdk.jfr.Description;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 @Listeners(CustomListeners.class)
 public class FlipkartTest extends Base {
-    public static WebElement webElement = driver.findElement(By.xpath("//div[@class ='exehdJ']"));
-    public static String elementValue = webElement.getText();
 
     @Description("Flipkart Login Test With Valid Credentials")
     @Severity(SeverityLevel.CRITICAL)
     @Test(priority = 1)
-    public void LoginTest() throws InterruptedException {
-        Login login = new Login(driver);
+    public void loginTest() throws InterruptedException {
+        Login login = new Login(Base.driver);
         login.getUserName();
-        System.out.println(elementValue);
-        Assert.assertEquals(elementValue,"Sathwika");
+        System.out.println(login.getUserText());
+        Assert.assertEquals(login.getUserText(),"Sathwika");
     }
     @Description("Flipkart Logout Test From The User Account")
     @Severity(SeverityLevel.NORMAL)
     @Test(priority = 2)
-    public static void logout() throws InterruptedException {
-        Logout logout = new Logout(driver);
+    public void logout() throws InterruptedException {
+        Logout logout = new Logout(Base.driver);
         logout.logout();
-        System.out.println(elementValue);
-        Assert.assertNotEquals(elementValue,"Sathwika");
+        System.out.println(logout.getUserText());
+        Assert.assertNotEquals(logout.getUserText(),"Sathwika");
     }
 }

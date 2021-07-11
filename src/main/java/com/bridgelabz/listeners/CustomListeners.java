@@ -8,14 +8,16 @@ import java.io.IOException;
 import static com.bridgelabz.utility.CaptureScreenShot.takeScreenShot;
 
 public class CustomListeners extends Base implements ITestListener {
+
     @Override
     public void onTestStart(ITestResult result) {
+
         System.out.println("Test cases has started "+result.getName());
     }
     @Override
     public void onTestSuccess(ITestResult result) {
         System.out.println("Test passed " + result.getName());
-        log.info("Test is Success");
+        log.info("Test case is Success");
         try {
             takeScreenShot(result.getName(), "success");
         } catch (IOException e) {
