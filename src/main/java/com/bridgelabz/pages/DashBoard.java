@@ -7,7 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class Logout extends Base {
+public class DashBoard extends Base {
 
     @FindBy(xpath = "//div[@class = '_28p97w']")
     public static WebElement sathwika;
@@ -19,7 +19,7 @@ public class Logout extends Base {
     public static WebElement more;
 
     //Generate a constructor
-    public Logout(WebDriver driver) {
+    public DashBoard(WebDriver driver) {
         PageFactory.initElements(driver, this);
     }
     //Actions class is used to hover on to the element
