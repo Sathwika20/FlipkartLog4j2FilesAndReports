@@ -1,9 +1,14 @@
 package com.bridgelabz.listeners;
 
 import com.bridgelabz.base.Base;
+import io.qameta.allure.Allure;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+
+import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import static com.bridgelabz.utility.CaptureScreenShot.takeScreenShot;
 
@@ -23,6 +28,7 @@ public class CustomListeners extends Base implements ITestListener {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        Allure.addAttachment(result.getName(), new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
     }
     @Override
     public void onTestFailure(ITestResult result) {
@@ -33,6 +39,7 @@ public class CustomListeners extends Base implements ITestListener {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        Allure.addAttachment(result.getName(), new ByteArrayInputStream(((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES)));
     }
 
     @Override
