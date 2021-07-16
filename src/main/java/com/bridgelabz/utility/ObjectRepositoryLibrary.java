@@ -1,16 +1,15 @@
 package com.bridgelabz.utility;
 
 import com.bridgelabz.base.Base;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-public class ObjectRepositoryUtils extends Base {
+public class ObjectRepositoryLibrary extends Base {
     Properties pro;
 
-    public ObjectRepositoryUtils () throws IOException {
+    public ObjectRepositoryLibrary() throws IOException {
         log.info("Set the path name for the file");
         File src = new File("C:\\Users\\gopir\\IdeaProjects\\ObjectRepository\\config\\config.properties");
         FileInputStream fis = new FileInputStream(src);
