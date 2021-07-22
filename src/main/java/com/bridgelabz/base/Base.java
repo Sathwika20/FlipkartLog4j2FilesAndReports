@@ -29,10 +29,9 @@ public class Base {
         driver.get(utils.getUrl());
 //        driver.get("https://www.flipkart.com/");
         log.info("entering application URL");
-        Thread.sleep(2000);
+//        Thread.sleep(2000);
 
     }
-
     //After execution
     @AfterTest
     public void tearDown() throws Exception {
