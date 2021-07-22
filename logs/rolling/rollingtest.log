@@ -1,36 +1,18 @@
-[INFO ] 2021-07-22 10:57:25.889 [Test worker] Base - Set the path name for the file
-[INFO ] 2021-07-22 10:57:31.188 [Test worker] Base - launching chrome broswer
-[INFO ] 2021-07-22 10:57:31.189 [Test worker] Base - Window is maximized
-[INFO ] 2021-07-22 10:57:31.370 [Test worker] Base - Provide the URL of the Application
-[INFO ] 2021-07-22 10:57:35.245 [Test worker] Base - entering application URL
-[INFO ] 2021-07-22 10:57:37.424 [Test worker] Base - starting test case
-[INFO ] 2021-07-22 10:57:37.425 [Test worker] Base - flipkartLoginTest
-[INFO ] 2021-07-22 10:57:39.860 [Test worker] Base - flipakrtLoginTest
-[INFO ] 2021-07-22 10:57:40.078 [Test worker] Base - Test case is Success
-[INFO ] 2021-07-22 10:57:40.085 [Test worker] Base - Capturing ScreenShot
-[INFO ] 2021-07-22 10:57:40.622 [Test worker] Base - ScreenShot saved in file
-[INFO ] 2021-07-22 10:57:41.192 [Test worker] Base - flipkartLogoutTest
-[INFO ] 2021-07-22 10:57:46.612 [Test worker] Base - ending test case
-[INFO ] 2021-07-22 10:57:46.613 [Test worker] Base - flipakrtLogoutTest
-[INFO ] 2021-07-22 10:57:46.682 [Test worker] Base - Test case is Success
-[INFO ] 2021-07-22 10:57:46.682 [Test worker] Base - Capturing ScreenShot
-[INFO ] 2021-07-22 10:57:46.817 [Test worker] Base - ScreenShot saved in file
-[INFO ] 2021-07-22 10:57:51.242 [Test worker] Base - Browser is closed
-[INFO ] 2021-07-22 10:58:15.256 [Test worker] Base - Set the path name for the file
-[INFO ] 2021-07-22 10:58:19.863 [Test worker] Base - launching chrome broswer
-[INFO ] 2021-07-22 10:58:19.864 [Test worker] Base - Window is maximized
-[INFO ] 2021-07-22 10:58:20.081 [Test worker] Base - Provide the URL of the Application
-[INFO ] 2021-07-22 10:58:25.285 [Test worker] Base - entering application URL
-[INFO ] 2021-07-22 10:58:27.457 [Test worker] Base - starting test case
-[INFO ] 2021-07-22 10:58:27.458 [Test worker] Base - flipkartLoginTest
-[INFO ] 2021-07-22 10:58:30.001 [Test worker] Base - flipakrtLoginTest
-[INFO ] 2021-07-22 10:58:30.116 [Test worker] Base - Test case is Success
-[INFO ] 2021-07-22 10:58:30.119 [Test worker] Base - Capturing ScreenShot
-[INFO ] 2021-07-22 10:58:30.432 [Test worker] Base - ScreenShot saved in file
-[INFO ] 2021-07-22 10:58:30.821 [Test worker] Base - flipkartLogoutTest
-[INFO ] 2021-07-22 10:58:36.252 [Test worker] Base - ending test case
-[INFO ] 2021-07-22 10:58:36.252 [Test worker] Base - flipakrtLogoutTest
-[INFO ] 2021-07-22 10:58:36.307 [Test worker] Base - Test case is Success
-[INFO ] 2021-07-22 10:58:36.307 [Test worker] Base - Capturing ScreenShot
-[INFO ] 2021-07-22 10:58:36.486 [Test worker] Base - ScreenShot saved in file
-[INFO ] 2021-07-22 10:58:36.935 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-22 12:59:46.290 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-07-22 12:59:53.670 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-22 12:59:53.671 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-22 12:59:53.926 [Test worker] Base - Provide the URL of the Application
+[INFO ] 2021-07-22 13:00:04.631 [Test worker] Base - entering application URL
+[INFO ] 2021-07-22 13:00:06.800 [Test worker] Base - starting test case
+[INFO ] 2021-07-22 13:00:06.800 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-22 13:00:09.386 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-22 13:00:11.568 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 13:00:11.570 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 13:00:13.125 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-22 13:00:13.854 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-22 13:00:26.182 [Test worker] Base - ending test case
+[INFO ] 2021-07-22 13:00:26.183 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-22 13:00:26.257 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 13:00:26.258 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 13:00:27.236 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-22 13:00:30.676 [Test worker] Base - Browser is closed
