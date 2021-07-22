@@ -29,7 +29,8 @@ public class FlipkartTest extends Base {
     public void logout() throws InterruptedException {
         DashBoard dashBoard = new DashBoard(Base.driver);
         dashBoard.logout();
+        dashBoard.getCancel();
         System.out.println(dashBoard.getUserText());
-        Assert.assertNotEquals(dashBoard.getUserText(),"Sathwika");
+        Assert.assertEquals(dashBoard.getUserText(),"Login");
     }
 }

@@ -18,6 +18,9 @@ public class DashBoard extends Base {
     @FindBy(xpath = "//div[@class ='exehdJ']")
     public static WebElement more;
 
+    @FindBy(xpath = "//button[@class = '_2KpZ6l _2doB4z']")
+    public static WebElement cancelButton;
+
     //Generate a constructor
     public DashBoard(WebDriver driver) {
         PageFactory.initElements(driver, this);
@@ -32,6 +35,9 @@ public class DashBoard extends Base {
         Thread.sleep(3000);
         log.info("ending test case");
         log.info("flipakrtLogoutTest");
+    }
+    public void getCancel(){
+        cancelButton.click();
     }
     public String getUserText(){
 

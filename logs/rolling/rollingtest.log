@@ -16,3 +16,62 @@
 [INFO ] 2021-07-22 13:00:26.258 [Test worker] Base - Capturing ScreenShot
 [INFO ] 2021-07-22 13:00:27.236 [Test worker] Base - ScreenShot saved in file
 [INFO ] 2021-07-22 13:00:30.676 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-22 14:23:41.395 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-07-22 14:23:48.735 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-22 14:23:48.736 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-22 14:23:49.062 [Test worker] Base - Provide the URL of the Application
+[INFO ] 2021-07-22 14:24:02.354 [Test worker] Base - entering application URL
+[INFO ] 2021-07-22 14:24:02.607 [Test worker] Base - starting test case
+[INFO ] 2021-07-22 14:24:02.610 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-22 14:24:05.630 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-22 14:24:07.355 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 14:24:07.359 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 14:24:08.503 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-22 14:24:09.229 [Test worker] Base - flipkartLogoutTest
+[INFO ] 2021-07-22 14:24:14.815 [Test worker] Base - ending test case
+[INFO ] 2021-07-22 14:24:14.815 [Test worker] Base - flipakrtLogoutTest
+[INFO ] 2021-07-22 14:24:15.041 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 14:24:15.041 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 14:24:15.355 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-22 14:24:20.543 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-22 14:26:18.395 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-07-22 14:26:23.859 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-22 14:26:23.861 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-22 14:26:24.039 [Test worker] Base - Provide the URL of the Application
+[INFO ] 2021-07-22 14:26:28.202 [Test worker] Base - entering application URL
+[INFO ] 2021-07-22 14:26:28.433 [Test worker] Base - starting test case
+[INFO ] 2021-07-22 14:26:28.434 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-22 14:26:31.208 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-22 14:26:31.982 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 14:26:31.986 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 14:26:32.891 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-22 14:26:33.720 [Test worker] Base - flipkartLogoutTest
+[WARN ] 2021-07-22 14:26:42.329 [Test worker] Base - Test case is failed
+[INFO ] 2021-07-22 14:26:42.329 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 14:26:43.008 [Test worker] Base - ScreenShot saved in file
+[INFO ] 2021-07-22 14:26:45.103 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-22 14:27:02.609 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-07-22 14:27:08.422 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-22 14:27:08.422 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-22 14:27:08.622 [Test worker] Base - Provide the URL of the Application
+[INFO ] 2021-07-22 14:27:17.827 [Test worker] Base - entering application URL
+[INFO ] 2021-07-22 14:27:18.024 [Test worker] Base - starting test case
+[INFO ] 2021-07-22 14:27:18.025 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-22 14:27:20.457 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-22 14:27:20.543 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 14:27:20.547 [Test worker] Base - Capturing ScreenShot
+[WARN ] 2021-07-22 14:27:41.092 [Test worker] Base - Test case is failed
+[INFO ] 2021-07-22 14:27:41.094 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 14:27:48.327 [Test worker] Base - Set the path name for the file
+[INFO ] 2021-07-22 14:27:54.948 [Test worker] Base - launching chrome broswer
+[INFO ] 2021-07-22 14:27:54.953 [Test worker] Base - Window is maximized
+[INFO ] 2021-07-22 14:27:55.122 [Test worker] Base - Provide the URL of the Application
+[INFO ] 2021-07-22 14:27:59.742 [Test worker] Base - entering application URL
+[INFO ] 2021-07-22 14:27:59.966 [Test worker] Base - starting test case
+[INFO ] 2021-07-22 14:27:59.967 [Test worker] Base - flipkartLoginTest
+[INFO ] 2021-07-22 14:28:02.580 [Test worker] Base - flipakrtLoginTest
+[INFO ] 2021-07-22 14:28:02.667 [Test worker] Base - Test case is Success
+[INFO ] 2021-07-22 14:28:02.678 [Test worker] Base - Capturing ScreenShot
+[WARN ] 2021-07-22 14:28:46.898 [Test worker] Base - Test case is failed
+[INFO ] 2021-07-22 14:28:46.901 [Test worker] Base - Capturing ScreenShot
+[INFO ] 2021-07-22 14:28:47.895 [Test worker] Base - Browser is closed
