@@ -1,5 +1,7 @@
 package com.bridgelabz.base;
 
+import com.bridgelabz.utility.MyScreenRecorder;
+import com.bridgelabz.utility.ObjectRepositoryLibrary;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -11,11 +13,11 @@ import org.testng.annotations.BeforeTest;
 public class Base {
     public static WebDriver driver;
     public static Logger log = LogManager.getLogger(String.valueOf(Base.class));
-
     //Before execution
     @BeforeTest
-    public void setUp() throws InterruptedException {
-
+    public void setUp() throws Exception {
+        MyScreenRecorder.startRecording("Test start");
+        ObjectRepositoryLibrary utils = new ObjectRepositoryLibrary();
         //launches the chromedriver using Webdriver interface
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
@@ -24,7 +26,8 @@ public class Base {
         log.info("Window is maximized");
         driver.manage().window().maximize();
         //Enter the URL of Application
-        driver.get("https://www.flipkart.com/");
+        driver.get(utils.getUrl());
+//        driver.get("https://www.flipkart.com/");
         log.info("entering application URL");
         Thread.sleep(2000);
 
@@ -32,10 +35,11 @@ public class Base {
 
     //After execution
     @AfterTest
-    public void tearDown() {
+    public void tearDown() throws Exception {
         //used to close the current window
         driver.close();
         log.info("Browser is closed");
+        MyScreenRecorder.stopRecording();
     }
 }
 

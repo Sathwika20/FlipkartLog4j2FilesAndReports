@@ -13,7 +13,7 @@ import java.util.Map;
 
 public class ExtentReport implements IReporter {
     public ExtentReports extent;
-    //    public String outputDirectory="";
+
     public void generateReport(List<XmlSuite> xmlSuites, List<ISuite> suites, String outputDirectory) {
         extent = new ExtentReports(outputDirectory + File.separator + "Flipkart_Extent.html", true);
 

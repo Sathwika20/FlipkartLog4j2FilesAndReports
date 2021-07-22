@@ -1,6 +1,7 @@
 package com.bridgelabz.listeners;
 
 import com.bridgelabz.base.Base;
+import com.bridgelabz.utility.ExtentReport;
 import io.qameta.allure.Allure;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

@@ -2,8 +2,8 @@ package com.bridgelabz.test;
 
 import com.bridgelabz.base.Base;
 import com.bridgelabz.listeners.CustomListeners;
+import com.bridgelabz.pages.DashBoard;
 import com.bridgelabz.pages.Login;
-import com.bridgelabz.pages.Logout;
 import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import jdk.jfr.Description;
@@ -27,9 +27,9 @@ public class FlipkartTest extends Base {
     @Severity(SeverityLevel.NORMAL)
     @Test(priority = 2)
     public void logout() throws InterruptedException {
-        Logout logout = new Logout(Base.driver);
-        logout.logout();
-        System.out.println(logout.getUserText());
-        Assert.assertNotEquals(logout.getUserText(),"Sathwika");
+        DashBoard dashBoard = new DashBoard(Base.driver);
+        dashBoard.logout();
+        System.out.println(dashBoard.getUserText());
+        Assert.assertNotEquals(dashBoard.getUserText(),"Sathwika");
     }
 }
