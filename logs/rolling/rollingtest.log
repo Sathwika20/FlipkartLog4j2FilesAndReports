@@ -75,3 +75,4 @@
 [WARN ] 2021-07-22 14:28:46.898 [Test worker] Base - Test case is failed
 [INFO ] 2021-07-22 14:28:46.901 [Test worker] Base - Capturing ScreenShot
 [INFO ] 2021-07-22 14:28:47.895 [Test worker] Base - Browser is closed
+[INFO ] 2021-07-22 14:42:41.214 [Test worker] Base - Set the path name for the file

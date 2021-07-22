@@ -31,6 +31,6 @@ public class FlipkartTest extends Base {
         dashBoard.logout();
         dashBoard.getCancel();
         System.out.println(dashBoard.getUserText());
-        Assert.assertEquals(dashBoard.getUserText(),"Login");
+        Assert.assertNotEquals(dashBoard.getUserText(),"Login");
     }
 }
