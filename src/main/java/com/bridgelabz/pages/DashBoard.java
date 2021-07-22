@@ -34,6 +34,7 @@ public class DashBoard extends Base {
         log.info("flipakrtLogoutTest");
     }
     public String getUserText(){
+
         return this.more.getText();
     }
 

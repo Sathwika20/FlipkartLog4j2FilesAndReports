@@ -37,7 +37,7 @@ public class Base {
     @AfterTest
     public void tearDown() throws Exception {
         //used to close the current window
-        driver.close();
+        driver.quit();
         log.info("Browser is closed");
         MyScreenRecorder.stopRecording();
     }
